@@ -1,4 +1,6 @@
 {
+  "name": "bun-hono",
+  "version": "1.0.0",
   "scripts": {
     "dev": "bun run --hot src/app.ts"
   },
